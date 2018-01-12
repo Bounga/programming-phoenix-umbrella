@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<queryresult success='true'
+    error='false'
+    numpods='8'
+    datatypes='People,ProgrammingLanguage,WikipediaStats'
+    timedout=''
+    timedoutpods=''
+    timing='5.759'
+    parsetiming='0.387'
+    parsetimedout='false'
+    recalculate=''
+    id='MSPa901188bhdg376660a6000033hfd2a4g3fc3a1e'
+    host='http://www5b.wolframalpha.com'
+    server='22'
+    related='http://www5b.wolframalpha.com/api/v2/relatedQueries.jsp?id=MSPa911188bhdg376660a60000371g94b5b3gig03g&amp;redisFailed=true&amp;s=22'
+    version='2.6'>
+ <pod title='Input interpretation'
+     scanner='Identity'
+     id='Input'
+     position='100'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP921188bhdg376660a6000044cdb0bh146093ch?MSPStoreType=image/gif&amp;s=22'
+       alt='Ruby | language designers'
+       title='Ruby | language designers'
+       width='191'
+       height='23' />
+   <plaintext>Ruby | language designers</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Result'
+     scanner='Data'
+     id='Result'
+     position='200'
+     error='false'
+     numsubpods='1'
+     primary='true'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP931188bhdg376660a6000049b11b1676i6fg8i?MSPStoreType=image/gif&amp;s=22'
+       alt='Yukihiro Matsumoto'
+       title='Yukihiro Matsumoto'
+       width='135'
+       height='18' />
+   <plaintext>Yukihiro Matsumoto</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Basic information'
+     scanner='Data'
+     id='BasicInformation:PeopleData'
+     position='300'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP941188bhdg376660a600002edhfd6icb3g24be?MSPStoreType=image/gif&amp;s=22'
+       alt='full name | Yukihiro Matsumoto
+date of birth | ~~ 1965 (age: 53 years)'
+       title='full name | Yukihiro Matsumoto
+date of birth | ~~ 1965 (age: 53 years)'
+       width='273'
+       height='68' />
+   <plaintext>full name | Yukihiro Matsumoto
+date of birth | ~~ 1965 (age: 53 years)</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Programming language properties'
+     scanner='Data'
+     id='Properties:ProgrammingLanguageData'
+     position='400'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP951188bhdg376660a600001b7bf76082456772?MSPStoreType=image/gif&amp;s=22'
+       alt='language designers | Yukihiro Matsumoto
+date introduced | 1995  (23 years ago)
+official website | http://www.ruby-lang.org/'
+       title='language designers | Yukihiro Matsumoto
+date introduced | 1995  (23 years ago)
+official website | http://www.ruby-lang.org/'
+       width='354'
+       height='100' />
+   <plaintext>language designers | Yukihiro Matsumoto
+date introduced | 1995  (23 years ago)
+official website | http://www.ruby-lang.org/</plaintext>
+  </subpod>
+ </pod>
+ <pod title='Image'
+     scanner='Data'
+     id='Image:PeopleData'
+     position='500'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <imagesource>http://en.wikipedia.org/wiki/File:Yukihiro_Matsumoto.JPG</imagesource>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP961188bhdg376660a600002h059e2b2fd68373?MSPStoreType=image/gif&amp;s=22'
+       alt=''
+       title=''
+       width='101'
+       height='150' />
+   <plaintext></plaintext>
+  </subpod>
+ </pod>
+ <pod title='Timeline'
+     scanner='Data'
+     id='Timeline:PeopleData'
+     position='600'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP971188bhdg376660a6000020d7gai245ag0ihh?MSPStoreType=image/gif&amp;s=22'
+       alt=''
+       title=''
+       width='550'
+       height='38' />
+   <plaintext></plaintext>
+  </subpod>
+ </pod>
+ <pod title='Wikipedia summary'
+     scanner='Data'
+     id='WikipediaSummary:PeopleData'
+     position='700'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP981188bhdg376660a600000dhf222f08f861e8?MSPStoreType=image/gif&amp;s=22'
+       alt=''
+       title=''
+       width='539'
+       height='109' />
+   <plaintext></plaintext>
+  </subpod>
+  <infos count='1'>
+   <info>
+    <link url='http://en.wikipedia.org/wiki?curid=34384'
+        text='Full entry' />
+   </info>
+  </infos>
+ </pod>
+ <pod title='Wikipedia page hits history'
+     scanner='Data'
+     id='PopularityPod:WikipediaStatsData'
+     position='800'
+     error='false'
+     numsubpods='1'>
+  <subpod title=''>
+   <img src='http://www5b.wolframalpha.com/Calculate/MSP/MSP991188bhdg376660a600002ihc7he8fg608g7b?MSPStoreType=image/gif&amp;s=22'
+       alt=''
+       title=''
+       width='546'
+       height='167' />
+   <plaintext></plaintext>
+  </subpod>
+  <states count='1'>
+   <state name='Log scale'
+       input='PopularityPod:WikipediaStatsData__Log scale' />
+  </states>
+ </pod>
+ <assumptions count='1'>
+  <assumption type='Clash'
+      word='ruby'
+      template='Assuming &quot;${word}&quot; is ${desc1}. Use as ${desc2} instead'
+      count='3'>
+   <value name='ProgrammingLanguage'
+       desc='a programming language'
+       input='*C.ruby-_*ProgrammingLanguage-' />
+   <value name='TelevisionProgram'
+       desc='a television series'
+       input='*C.ruby-_*TelevisionProgram-' />
+   <value name='Movie'
+       desc='a movie'
+       input='*C.ruby-_*Movie-' />
+  </assumption>
+ </assumptions>
+ <sources count='1'>
+  <source url='http://www.wolframalpha.com/sources/PeopleDataSourceInformationNotes.html'
+      text='People data' />
+ </sources>
+</queryresult>
